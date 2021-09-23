@@ -1,0 +1,19 @@
+Este documento tem algumas orientações para o teste prático do processo seletivo.
+
+Segue link do layout que deverá ser desenvolvido: https://www.figma.com/file/DgCRAvrfTH9xFuU8whX0AN/Ava?node-id=0%3A1
+
+Neste anexo também irá conter as imagens para usar no desenvolvimento, caso não consiga baixar do layout no Figma.
+
+Nas 3 imagens que estão lado a lado, existirá um efeito de hover, que ao passar o mouse deverar ter uma animação que exibirá o texto que está no layout (Img3, Img2 e Img1).
+
+O box verde será uma imagem como background.
+
+A estrutura que você deverá me enviar será essa:
+seu-nome.zip
+seu-nome |
+         | index.html
+         | style.css
+         | imagens |
+                   | arquivos de imagem
+
+Fonte: @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
